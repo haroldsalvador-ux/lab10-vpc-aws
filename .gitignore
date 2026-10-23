@@ -1,0 +1,4 @@
+*.docx
+~$*
+*.gif
+.DS_Store
